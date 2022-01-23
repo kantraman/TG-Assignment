@@ -1,0 +1,20 @@
+[
+    {
+        "productId" : "gin01", 
+        "batchId": "B12",
+        "distillerName": "eenoolooapik",
+        "bottlingTime" : "1642516201094"
+    },
+    {
+        "productId" : "gin02", 
+        "batchId": "B1",
+        "distillerName": "eenoolooapik",
+        "bottlingTime" : "1642517201094"
+    },
+    {
+        "productId" : "gin03", 
+        "batchId": "B4",
+        "distillerName": "eenoolooapik",
+        "bottlingTime" : "1642516501094"
+    }
+]

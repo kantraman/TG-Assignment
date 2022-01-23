@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "pName": "Haroosh",
+        "image": "./haroosh.jpg",
+        "descr": "An Age Old Family Recipe That Embodies The Spirit Of Scottish Flavours, Haroosh originates from the North East of Scotland and has been made by the family for over 100 years. Brambleberries would be foraged every autumn then left to infuse with local honey and whisky, slowly transforming into Haroosh, which has been enjoyed by family and friends for many generations."
+    },
+    {
+        "id": 2,
+        "pName": "Murmichan",
+        "image": "./murmichan.png",
+        "descr": "Murmichan is produced in a traditional manner using natural botanicals for both flavouring and colouring. We use a mixture of traditional and Scottish botanicals including grande wormwood, roman wormwood, green aniseed, fennel seed, hyssop, star anise, lemon balm, mint leaves, bramble leaves, lemon thyme and heather flower. We also distil Royal Deeside heather, clover and willow herb honey giving our absinthe a unique taste and mouth feel."
+    },
+    {
+        "id": 3,
+        "pName": "Singular Series",
+        "image": "./singular-caribbean-vanilla-rum.jpg",
+        "descr": " From barrel aged Murmichan Absinthe to ancient Italian liqueurs the Singular Series has no limits. These are one off single batch creations. Crafted from natural ingredients sourced from around the world, the Singular Series is an honest approach to spirits where anything can and might be created."
+    }
+
+]

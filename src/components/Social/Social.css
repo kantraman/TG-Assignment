@@ -1,0 +1,11 @@
+.socialbuttons{
+    display: flex;
+    width: 150px;
+    transform: scale(50%);
+    align-self: center;
+}
+
+.socialbuttons> a{
+    display:inline-block;
+    margin-right: 1px;
+}

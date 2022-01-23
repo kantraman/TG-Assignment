@@ -1,0 +1,65 @@
+.headWrapper{
+    background-color: #1F1F1F;
+    display: flex;
+    height: auto;
+    width: auto;
+    text-align: top;
+    justify-items: center;
+    justify-content: center;
+}
+
+.headWrapper > button{
+    background-color: #1F1F1F;
+    border-style: none;
+    margin-right: 4px;
+    margin-top: 2px;
+    font-size: 2rem;
+}
+
+@media only screen and (min-width: 768px) {
+    .headWrapper{
+        position:fixed;
+        width: 100%;
+        z-index: 10;
+        margin: 0;
+    }
+    .adjHtHead{
+        height: 65px;
+    }
+}
+
+.sideBar{
+    background-color: black;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #fff !important;
+    font-size: large;
+}
+
+.dropdown-item{
+    color: #fff;
+    border: 1px solid #ccc;
+}
+
+.dropdown-menu{
+    background-color: black;
+}
+
+.closeCanvas{
+    color: white;
+    background-color: #1F1F1F;
+    border: 1px solid #ccc;
+    float: right;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+.closeCanvas:hover{
+	 background-color: #5F5F5F;
+}
+
+
+

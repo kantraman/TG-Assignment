@@ -1,0 +1,35 @@
+.logo{
+    background-image: url("lost-loch.jpeg");
+    animation: fade 2s linear 0s infinite alternate;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 34px;
+    width: 150px;
+    margin: 50vh auto;
+    z-index: 999;
+}
+.cover{
+    position: fixed;
+    z-index: 999;
+    height: 100%;
+    width: 100%;
+    overflow: show;
+    margin: auto;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: white;
+}
+
+
+@keyframes fade {
+    from {
+        transform:scale(100%);
+        opacity: 1;
+    }
+    to {
+        transform:scale(50%);
+        opacity: 0.25;
+    }
+  }
