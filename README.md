@@ -1,7 +1,7 @@
 README
 ------
 
-This project is done using create-react-app. Hence nodejs has to be installed on the local computer to run it locally.
+This project is done using create-react-app. Hence nodejs has to be installed on the local computer to run it locally. I have tested this on nodejs v16.13.
 
 
 Instructions to run the project
