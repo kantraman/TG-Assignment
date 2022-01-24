@@ -1,7 +1,7 @@
 README
 ------
 
-This project is done using create-react-app. Hence nodejs has to be installed on the local computer to run it locally. I have tested this on nodejs v16.13.
+This project is done using create-react-app and uses bootstrap for styling. Nodejs is to be installed on the local computer to run it locally. I have tested this on nodejs v16.13. The computer should also have a live internet connection.
 
 
 Instructions to run the project
